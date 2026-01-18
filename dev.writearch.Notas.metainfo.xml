@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>dev.writearch.Notas</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <name>Notas</name>
+  <summary>Aplicación simple y moderna de notas</summary>
+  <description>
+    <p>
+      Una aplicación minimalista para tomar notas con una interfaz moderna usando GTK4 y libadwaita.
+    </p>
+  </description>
+  <launchable type="desktop-id">notas.desktop</launchable>
+  <provides>
+    <binary>notas</binary>
+  </provides>
+</component>

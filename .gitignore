@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Package builds
+*.pkg.tar.zst
+*.pkg.tar.xz
+*.pkg.tar.gz
+pkg/
+src/pkg/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Build artifacts
+*.o
+*.a
+build/
+dist/
+
+# Arch Linux packaging
+*.pkg.tar.zst
+*.pkg.tar.xz
+*.pkg.tar.gz
+pkg/
+src/pkg/
+
+# GTK/GLib
+*.gir
+*.typelib
+
+# Development
+.cache/
+*.log
+*.bak

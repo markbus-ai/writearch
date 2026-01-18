@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Notas
+Comment=Aplicación simple de notas
+Exec=notas
+Icon=accessories-text-editor
+Terminal=false
+Type=Application
+Categories=Utility;TextEditor;
+Keywords=notes;texto;editor;

@@ -20,7 +20,7 @@ sudo apt install python3-gi gir1.2-gtk-4.0 libadwaita-1-0
 
 Desde el código fuente:
 ```bash
-python3 src/notas.py
+python3 notas.py
 ```
 
 O instalar el paquete:
@@ -56,6 +56,7 @@ Minimalista y eficiente, con buena integración nativa.
 - **Modular**: Separación clara entre core (lógica), ui (interfaz) y main (orquestación)
 - **Event-driven**: Comunicación desacoplada mediante GObject signals
 - **MVC-like**: Model (FileManager/TextProcessor), View (UI components), Controller (NotasApp)
+- **Simplificado**: Sin wrappers innecesarios, ejecución directa del script principal
 
 ### Estructura del Proyecto
 ```
